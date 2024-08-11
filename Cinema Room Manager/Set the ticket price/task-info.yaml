@@ -6,6 +6,9 @@ files:
   - name: test/CinemaTests.java
     visible: false
     learner_created: false
-feedback_link: https://hyperskill.org/projects/133/stages/711/implement#comment
-status: Unchecked
+feedback_link: https://hyperskill.org/learn/step/11107#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 11 Aug 2024 17:06:56 UTC"
 record: -1
